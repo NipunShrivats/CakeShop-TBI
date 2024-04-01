@@ -10,4 +10,4 @@ This project uses HTML, CSS, SASS-SCSS, Bootstrap, JavaScript, NodeJS and Expres
 
 //3. Use
 I have not used the traditional HTML files for managing my code by using handlebars instead.
-"handlebars" aka "hbs" makes it easier to manage the code without the using react.
+"handlebars" aka "hbs" making it easier to manage the code without using react.
