@@ -1,0 +1,17 @@
+{
+  "name": "cake-draft2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js -e js,mjs,json,hbs,css,scss"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "hbs": "^4.2.0"
+  }
+}
